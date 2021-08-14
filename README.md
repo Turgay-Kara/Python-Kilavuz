@@ -1,1 +1,1 @@
-# Python-Notlar-
+# Python Notları
