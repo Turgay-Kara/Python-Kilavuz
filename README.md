@@ -1,2 +1,2 @@
 # Python Notları
-Temel Seviye Pyton notlarımı sizlerle paylaşıyorum.
+Temel seviye Pyton notlarımı sizlerle paylaşıyorum.
